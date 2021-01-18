@@ -4,7 +4,7 @@ A simple terminal-based, two player game of Yahtzee!
 # Motivation
 This game was developed for the final exam of COMP 1510.
 
-#Technologies Used
+# Technologies Used
 * Python
 
 # List of functions in this program:
